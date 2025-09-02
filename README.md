@@ -39,7 +39,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://idealofsweden.nl/
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepage
-  <img src="readme-images/small_homepage.jpg" width="375px" alt="small screen homepage">
+  <img width="498" height="673" alt="small_homepage" src="https://github.com/user-attachments/assets/75c60776-b435-4bb7-9b34-80e4e051cc21" />
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
