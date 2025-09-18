@@ -58,6 +58,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  De contrast-ratio is goed
+  <br>
 <img width="233" height="484" alt="contrast" src="https://github.com/user-attachments/assets/20068ca2-5046-49e9-ae4a-85df05651993" />
 <img width="555" height="661" alt="kleurenblind" src="https://github.com/user-attachments/assets/b93b6e4d-3cf9-4310-95c5-d9f67fc7a597" />
 
